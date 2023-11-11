@@ -1,6 +1,6 @@
 ---
 title: "Teaching"
-collection: Teaching
+collection: teaching
 permalink: /teaching/
 excerpt: ''
 date: ''
