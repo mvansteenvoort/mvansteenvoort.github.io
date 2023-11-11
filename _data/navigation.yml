@@ -1,13 +1,13 @@
 # main links links
-main:  
-  - title: "CV"
-    url: /files/2023-11-11_CV_Academic.pdf
-    
+main: 
   - title: "Research"
     url: /research/ 
     
   - title: "Teaching"
     url: /teaching/ 
+    
+  - title: "CV"
+    url: /files/2023-11-11_CV_Academic.pdf
 
  # - title: "Talks"
  #   url: /talks/    
