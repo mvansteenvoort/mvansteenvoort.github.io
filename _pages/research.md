@@ -24,4 +24,4 @@ Recommended citation: Cassan, G., & Van Steenvoort, M. (2021). Political regime 
 
 ## Work in Progress
 
-**Exposure to refugee reception centres and political outcomes** (with [Tim Friehe](https://www.uni-marburg.de/en/fb02/research-groups/economics/fiwi/team/prof-dr-tim-friehe) and [Hannes Rusch](https://hrusch.de/))
+**Small-scale evidence on the political and economic effects of hosting asylum-seekers** (with [Tim Friehe](https://www.uni-marburg.de/en/fb02/research-groups/economics/fiwi/team/prof-dr-tim-friehe) and [Hannes Rusch](https://hrusch.de/))
