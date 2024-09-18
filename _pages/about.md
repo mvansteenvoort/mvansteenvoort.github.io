@@ -8,9 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! 
+Hello and welcome to my webpage! 
 <br/>
 
 
-I am a PhD candidate at the Department of Microeconomics and Public Economics at [Maastricht University](https://www.maastrichtuniversity.nl/). My research interests lie within the fields of political, behavioural and development economics, with a particular focus on migration.
+I joined the [University of Namur](https://www.unamur.be/en) in September 2024, where I will be working as a post-doctoral researcher on the project "IDnomics: Identities, norms, and economic behavior".  
+<br/>
+
+My research interests lie in the areas of migration, gender, and political economy.
 
