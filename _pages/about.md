@@ -14,5 +14,11 @@ Hello and welcome to my webpage!
 
 I joined the [University of Namur](https://www.unamur.be/en) in September 2024, where I will be working as a post-doctoral researcher on the project "IDnomics: Identities, norms, and economic behavior".  
 
-My research interests lie in the areas of migration, identity, and political economy.
+<strong>Interests</strong>
+<ul>
+  <li> Political Economy </li> 
+  <li> Development Economics </li> 
+  <li> Migration </li> 
+  <li> Identity </li> 
+</ul>
 
