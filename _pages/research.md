@@ -26,6 +26,7 @@ Cassan, G., & Van Steenvoort, M. (2021). Political regime and COVID 19 death rat
 <summary><em>Abstract</em></summary> 
 'Gender-biased fertility preferences are prevalent in many societies. They are commonly thought to be a driver of excess fertility. We show here that this is not necessarily true: switching from gender-biased to gender-neutral fertility preferences can increase excess fertility.  The magnitude and the sign of the variation in excess fertility depends on the choice of gender-neutral fertility counterfactual. We illustrate our findings using data from the Indian Demographic and Health Surveys and show that gender-biased fertility preferences can lead to a change in excess fertility ranging from -15% to 23% of the total excess fertility or -4% to 6% of total fertility.' 
 </details>
+<br>
 
 **Support for refugees declines when helping groups are asymmetric** (with [Hannes Rusch](https://hrusch.de/), [Robert Böhm](https://robertboehm.info/), and [Paul A.M. van Lange](https://www.paulvanlange.com/))
 
