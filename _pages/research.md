@@ -20,7 +20,7 @@ Cassan, G., & Van Steenvoort, M. (2021). Political regime and COVID 19 death rat
 
 ## Working Papers
 
-**Gender-biased fertility preferences may decrease fertility: evidence from a counterfactual analysis** (with [Guilhem Cassan](https://perso.unamur.be/~gcassan/))
+Gender-biased fertility preferences may decrease fertility: evidence from a counterfactual analysis (with [Guilhem Cassan](https://perso.unamur.be/~gcassan/))
 
 <details>
 <summary><em>Abstract</em></summary> 
@@ -28,7 +28,7 @@ Cassan, G., & Van Steenvoort, M. (2021). Political regime and COVID 19 death rat
 </details>
 <br>
 
-**Support for refugees declines when helping groups are asymmetric** (with [Hannes Rusch](https://hrusch.de/), [Robert Böhm](https://robertboehm.info/), and [Paul A.M. van Lange](https://www.paulvanlange.com/))
+Support for refugees declines when helping groups are asymmetric (with [Hannes Rusch](https://hrusch.de/), [Robert Böhm](https://robertboehm.info/), and [Paul A.M. van Lange](https://www.paulvanlange.com/))
 
 <details>
 <summary><em>Abstract</em></summary> 
@@ -38,4 +38,4 @@ Our results suggest that unequal endowments between groups lead early-positioned
 
 ## Work in Progress
 
-**Where familiarity breeds less contempt: Political and economic effects of refugee reception show substantial local variation** (with [Tim Friehe](https://www.uni-marburg.de/en/fb02/research-groups/economics/fiwi/team/prof-dr-tim-friehe) and [Hannes Rusch](https://hrusch.de/))
+Where familiarity breeds less contempt: Political and economic effects of refugee reception show substantial local variation (with [Tim Friehe](https://www.uni-marburg.de/en/fb02/research-groups/economics/fiwi/team/prof-dr-tim-friehe) and [Hannes Rusch](https://hrusch.de/))
