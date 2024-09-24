@@ -22,12 +22,18 @@ Cassan, G., & Van Steenvoort, M. (2021). Political regime and COVID 19 death rat
 
 **Gender-biased fertility preferences may decrease fertility: evidence from a counterfactual analysis** (with [Guilhem Cassan](https://perso.unamur.be/~gcassan/))
 
-*Abstract*: 'Gender-biased fertility preferences are prevalent in many societies. They are commonly thought to be a driver of excess fertility. We show here that this is not necessarily true: switching from gender-biased to gender-neutral fertility preferences can increase excess fertility.  The magnitude and the sign of the variation in excess fertility depends on the choice of gender-neutral fertility counterfactual. We illustrate our findings using data from the Indian Demographic and Health Surveys and show that gender-biased fertility preferences can lead to a change in excess fertility ranging from -15% to 23% of the total excess fertility or -4% to 6% of total fertility.' 
+<details>
+<summary><em>Abstract</em></summary> 
+'Gender-biased fertility preferences are prevalent in many societies. They are commonly thought to be a driver of excess fertility. We show here that this is not necessarily true: switching from gender-biased to gender-neutral fertility preferences can increase excess fertility.  The magnitude and the sign of the variation in excess fertility depends on the choice of gender-neutral fertility counterfactual. We illustrate our findings using data from the Indian Demographic and Health Surveys and show that gender-biased fertility preferences can lead to a change in excess fertility ranging from -15% to 23% of the total excess fertility or -4% to 6% of total fertility.' 
+</details>
 
 **Support for refugees declines when helping groups are asymmetric** (with [Hannes Rusch](https://hrusch.de/), [Robert Böhm](https://robertboehm.info/), and [Paul A.M. van Lange](https://www.paulvanlange.com/))
 
-*Abstract*: 'Supporting refugees along their migration journeys involves multiple groups of citizens, which often differ in their ability to provide help. To study how such heterogeneity causally affects citizens’ willingness to help refugees, we utilize a framed economic game in which two groups of four citizen players (n = 910) decide about helping a passive refugee player (n = 114). One group of citizens (early-positioned) makes their decisions before the other group of citizens (late-positioned). We implement unequal abilities to help by systematically varying the endowment of the two groups (low vs. high).
+<details>
+<summary><em>Abstract</em></summary> 
+'Supporting refugees along their migration journeys involves multiple groups of citizens, which often differ in their ability to provide help. To study how such heterogeneity causally affects citizens’ willingness to help refugees, we utilize a framed economic game in which two groups of four citizen players (n = 910) decide about helping a passive refugee player (n = 114). One group of citizens (early-positioned) makes their decisions before the other group of citizens (late-positioned). We implement unequal abilities to help by systematically varying the endowment of the two groups (low vs. high).
 Our results suggest that unequal endowments between groups lead early-positioned groups to help less, irrespective of those groups’ own endowments. Similarly, late-positioned groups with low endowment help less. Our study contributes to the literature on the determinants of collective support for refugees and provides new insights on altruistic behavior in asymmetrical groups.' 
+</details>
 
 ## Work in Progress
 
