@@ -14,7 +14,7 @@ author_profile: true
 </details>
 
 <details>
-<summary><em>Cite</em></summary>
+<summary><em>Recommended citation</em></summary>
 Cassan, G., & Van Steenvoort, M. (2021). Political regime and COVID 19 death rate: Efficient, biasing or simply different autocracies? An econometric analysis. SSM-Population Health, 16, 100912.
 </details>
 
