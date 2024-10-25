@@ -6,7 +6,7 @@ author_profile: true
 
 ## Publications
 
-Political regime and COVID 19 death rate: Efficient, biasing or simply different autocracies? An econometric analysis (with [Guilhem Cassan](https://perso.unamur.be/~gcassan/)) [doi](https://doi.org/10.1016/j.ssmph.2021.100912) 
+Cassan, Guilhem, Van Steenvoort, Milan (2021). Political regime and COVID 19 death rate: Efficient, biasing or simply different autocracies? An econometric analysis. <em>SSM-Population Health<em>, 16, 100912. [doi](https://doi.org/10.1016/j.ssmph.2021.100912) 
 
 <details>
 <summary><em>Abstract</em></summary> 
