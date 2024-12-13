@@ -30,6 +30,7 @@ Support for refugees declines when helping groups are asymmetric (with [Hannes R
 'Supporting refugees along their migration journeys involves multiple groups of citizens, which often differ in their ability to provide help. To study how such heterogeneity causally affects citizens’ willingness to help refugees, we utilize a framed economic game in which two groups of four citizen players (n = 910) decide about helping a passive refugee player (n = 114). One group of citizens (early-positioned) makes their decisions before the other group of citizens (late-positioned). We implement unequal abilities to help by systematically varying the endowment of the two groups (low vs. high).
 Our results suggest that unequal endowments between groups lead early-positioned groups to help less, irrespective of those groups’ own endowments. Similarly, late-positioned groups with low endowment help less. Our study contributes to the literature on the determinants of collective support for refugees and provides new insights on altruistic behavior in asymmetrical groups.' 
 </details>
+<br>
 
 Where familiarity breeds less contempt: Political and economic effects of refugee reception show substantial local variation (with [Tim Friehe](https://www.uni-marburg.de/en/fb02/research-groups/economics/fiwi/team/prof-dr-tim-friehe) and [Hannes Rusch](https://hrusch.de/))
 
