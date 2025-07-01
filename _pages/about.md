@@ -12,13 +12,12 @@ Hello and welcome to my webpage!
 <br/>
 
 
-I joined the [University of Namur](https://www.unamur.be/en) in September 2024, where I will be working as a post-doctoral researcher on the project "IDnomics: Identities, norms, and economic behavior".  
+I joined the [University of Namur](https://www.unamur.be/en) in September 2024, where I am working as a post-doctoral researcher on the project "IDnomics: Identities, norms, and economic behavior".  
 
 <strong>Interests</strong>
 <ul>
   <li> Political Economy </li> 
-  <li> Population Economics </li> 
-  <li> Migration </li> 
-  <li> Identity </li> 
+  <li> Migration </li>
+  <li> Media </li>
 </ul>
 
