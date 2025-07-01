@@ -6,7 +6,7 @@ author_profile: true
 
 ## Publications
 
-Van Steenvoort, Milan, Rusch, Hannes, Böhm, Robert, van Lange, Paul A.M. (2025). Support for refugees declines when helping groups are asymmetric. [In press] <em>Journal of Ethnic and Migration Studies<em> [doi](https://doi.org/10.1080/1369183X.2025.2497835) 
+Van Steenvoort, Milan, Rusch, Hannes, Böhm, Robert, van Lange, Paul A.M. (2025). Support for refugees declines when helpers have unequal positions and abilities to help. [In press] <em>Journal of Ethnic and Migration Studies<em> [doi](https://doi.org/10.1080/1369183X.2025.2497835) 
 
 <details>
 <summary><em>Abstract</em></summary> 
