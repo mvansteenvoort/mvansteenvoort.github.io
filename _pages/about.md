@@ -12,7 +12,7 @@ Hello and welcome to my webpage!
 <br/>
 
 
-I joined the [University of Namur](https://www.unamur.be/en) in September 2024, where I am working as a post-doctoral researcher on the project "IDnomics: Identities, norms, and economic behavior".  
+I joined the [University of Namur](https://www.unamur.be/en) in September 2024, where I am working as a post-doctoral researcher on the project "[IDnomics: Identities, norms, and economic behavior](https://arc-projects.unamur.be/idnomics)".  
 
 <strong>Interests</strong>
 <ul>
