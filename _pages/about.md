@@ -17,6 +17,7 @@ I joined the [University of Namur](https://www.unamur.be/en) in September 2024, 
 <strong>Interests</strong>
 <ul>
   <li> Political Economy </li> 
+  <li> Population Economics </li> 
   <li> Economics of Migration </li>
   <li> Economics of Media </li>
 </ul>
