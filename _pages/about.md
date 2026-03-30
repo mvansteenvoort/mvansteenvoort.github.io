@@ -12,7 +12,7 @@ Hello and welcome to my webpage!
 <br/>
 
 
-I joined the [University of Namur](https://www.unamur.be/en) in September 2024, where I am working as a post-doctoral researcher on the project "[IDnomics: Identities, norms, and economic behavior](https://arc-projects.unamur.be/idnomics)".  
+I joined the [University of Namur](https://www.unamur.be/en) in September 2024, where I am working as a post-doctoral researcher on the project "[IDnomics: Identities, norms, and economic behavior](https://arc-projects.unamur.be/idnomics)" (joint with UCLouvain).  
 
 I am visiting Sciences Po Paris in March and April 2026, invited by Prof. Julia Cagé. 
 <br/>
