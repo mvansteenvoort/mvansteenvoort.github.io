@@ -23,7 +23,7 @@ Cassan, Guilhem, Van Steenvoort, Milan (2021). Political regime and COVID 19 dea
 
 ## Working Papers
 
-Gender-biased fertility preferences may decrease fertility: evidence from a counterfactual analysis (with [Guilhem Cassan](https://perso.unamur.be/~gcassan/)) <em> [CEPR Discussion Paper No. 18551](https://cepr.org/publications/dp18551)} <em>
+Gender-biased fertility preferences may decrease fertility: evidence from a counterfactual analysis (with [Guilhem Cassan](https://perso.unamur.be/~gcassan/)) <em> [CEPR Discussion Paper No. 18551](https://cepr.org/publications/dp18551) <em>
 
 <details>
 <summary><em>Abstract</em></summary> 
