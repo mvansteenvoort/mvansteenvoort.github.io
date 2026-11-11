@@ -31,11 +31,24 @@ Gender-biased fertility preferences may decrease fertility: evidence from a coun
 </details>
 <br>
 
+## Selected Work in Progress
+
+Expected Asylum Seekers and Far-Right Voting: Effects of a Dispersal Act (with [Joop Adema](https://jopieadema.github.io/)) 
+
+<details>
+<summary><em>Abstract</em></summary> 
+Far-right parties frequently mobilize anti-refugee sentiment during periods of high asylum migration. Prior work shows that exposure to transit routes and regional inflows tends to raise far-right support, whereas direct local contact with asylum seekers can dampen it. Yet much of the sharp rise in far-right voting around major refugee waves remains unexplained by actual inflows. We study a Dutch policy reform, the Dispersal Act, which obligated municipalities to host asylum seekers and thereby generated a sudden, plausibly exogenous increase in expected future local inflows. Comparing changes in far-right vote shares between not-yet and already hosting municipalities, largely before the actual arrival of asylum seekers, allows us to isolate the electoral effect of heightened expectations of future hosting. We find that affected municipalities experienced a substantial increase in far-right support following the Act’s passage, which comes mostly at the expense of the center-right party that introduced then tried to repeal the Act. Using survey panel data, we show that individuals in affected municipalities became less satisfied with government policy while their views on immigration remained stable.
+</details>
+<br>
+
 Where familiarity breeds less contempt: Political and economic effects of refugee reception show substantial local variation (with [Tim Friehe](https://www.uni-marburg.de/en/fb02/research-groups/economics/fiwi/team/prof-dr-tim-friehe) and [Hannes Rusch](https://hrusch.de/))
 
 <details>
 <summary><em>Abstract</em></summary> 
 'The reception and hosting of refugees may impact the local economic and political landscape: large inflows of people may deteriorate the quality of public services, citizens’ valuation of neighborhoods close to refugee shelters may change, and far-right political parties may try to gain votes using anti-immigrant campaigns. However, the existing macro-evidence is mixed, and the occurrence and magnitude of such effects near large refugee shelters are poorly understood. We use high-resolution data from a city hosting one of Germany’s major refugee reception centers to analyze the local repercussions of the vast inflow of refugees in 2015. We find that greater exposure to the refugee inflow reduces the shift of votes from center to far-right parties. In addition, we present evidence that public-services quality deteriorated in the vicinity of refugee shelters while the rental market showed no adverse effects. Our findings demonstrate the benefits and importance of using fine-grained data: by considering the spatial distribution of refugees within urban areas, a better understanding of the impact of forced migration on host societies can be gained.' 
 </details>
+<br>
+
+“Media and Gender in U.S. Politics” (with [Guilhem Cassan](https://perso.unamur.be/~gcassan/)) 
 
 
