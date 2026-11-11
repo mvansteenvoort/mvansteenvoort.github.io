@@ -6,7 +6,7 @@ author_profile: true
 
 ## Publications
 
-Van Steenvoort, Milan, Rusch, Hannes, Böhm, Robert, van Lange, Paul A.M. (2025). Support for refugees declines when helpers have unequal positions and abilities to help. <em>Journal of Ethnic and Migration Studies<em>, 1–26. [doi](https://doi.org/10.1080/1369183X.2025.2497835)
+Van Steenvoort, Milan, Rusch, Hannes, Böhm, Robert, van Lange, Paul A.M. (2025). Support for refugees declines when helpers have unequal positions and abilities to help. <em>Journal of Ethnic and Migration Studies<em>, 1–26. [Open Access](https://doi.org/10.1080/1369183X.2025.2497835)
 
 <details>
 <summary><em>Abstract</em></summary> 
@@ -14,7 +14,7 @@ Van Steenvoort, Milan, Rusch, Hannes, Böhm, Robert, van Lange, Paul A.M. (2025)
 </details>
 <br>
 
-Cassan, Guilhem, Van Steenvoort, Milan (2021). Political regime and COVID 19 death rate: Efficient, biasing or simply different autocracies? An econometric analysis. <em>SSM-Population Health<em>, 16, 100912. [doi](https://doi.org/10.1016/j.ssmph.2021.100912)
+Cassan, Guilhem, Van Steenvoort, Milan (2021). Political regime and COVID 19 death rate: Efficient, biasing or simply different autocracies? An econometric analysis. <em>SSM-Population Health<em>, 16, 100912. [Open Access](https://doi.org/10.1016/j.ssmph.2021.100912)
 
 <details>
 <summary><em>Abstract</em></summary> 
