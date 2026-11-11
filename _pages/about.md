@@ -15,7 +15,7 @@ Hello and welcome to my webpage!
 I am a post-doctoral researcher at the University of Namur and a project member of "[IDnomics: Identities, norms, and economic behavior](https://arc-projects.unamur.be/idnomics)" (joint with UCLouvain). 
 <br/>
 
-I visited Harvard University during the Fall Semester, invited by [Prof. James Snyder](https://jamessnyderjr.com/), and Sciences Po Paris during the Spring Semester of 2026, invited by [Prof. Julia Cagé](https://juliacage.com/).
+I am visiting Harvard University during the Fall Semester, invited by [Prof. James Snyder](https://jamessnyderjr.com/), and visited Sciences Po Paris during the Spring Semester of 2026, invited by [Prof. Julia Cagé](https://juliacage.com/).
 <br/>
 
 
