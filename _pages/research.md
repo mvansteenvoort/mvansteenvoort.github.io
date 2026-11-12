@@ -41,6 +41,8 @@ Far-right parties frequently mobilize anti-refugee sentiment during periods of h
 </details>
 <br>
 
+“Media and Gender in U.S. Politics” (with [Guilhem Cassan](https://perso.unamur.be/~gcassan/)) 
+
 Where familiarity breeds less contempt: Political and economic effects of refugee reception show substantial local variation (with [Tim Friehe](https://www.uni-marburg.de/en/fb02/research-groups/economics/fiwi/team/prof-dr-tim-friehe) and [Hannes Rusch](https://hrusch.de/))
 
 <details>
@@ -48,7 +50,5 @@ Where familiarity breeds less contempt: Political and economic effects of refuge
 'The reception and hosting of refugees may impact the local economic and political landscape: large inflows of people may deteriorate the quality of public services, citizens’ valuation of neighborhoods close to refugee shelters may change, and far-right political parties may try to gain votes using anti-immigrant campaigns. However, the existing macro-evidence is mixed, and the occurrence and magnitude of such effects near large refugee shelters are poorly understood. We use high-resolution data from a city hosting one of Germany’s major refugee reception centers to analyze the local repercussions of the vast inflow of refugees in 2015. We find that greater exposure to the refugee inflow reduces the shift of votes from center to far-right parties. In addition, we present evidence that public-services quality deteriorated in the vicinity of refugee shelters while the rental market showed no adverse effects. Our findings demonstrate the benefits and importance of using fine-grained data: by considering the spatial distribution of refugees within urban areas, a better understanding of the impact of forced migration on host societies can be gained.' 
 </details>
 <br>
-
-“Media and Gender in U.S. Politics” (with [Guilhem Cassan](https://perso.unamur.be/~gcassan/)) 
 
 
