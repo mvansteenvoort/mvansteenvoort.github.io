@@ -7,6 +7,7 @@ author_profile: true
 *University of Namur* 
 * Using economic tools to solve global challenges (M.Sc.) ([Course description](https://uclouvain.be/en-cours-2024-lecon2806))
 <br>
+<br>
 
 *Maastricht University* 
 * Intermediate Microeconomics for Pre-master (B.Sc.) ([Course description](https://code.unimaas.nl/Code/Display?intCalendarID=30&intBAMA=1&SearchString=EBC2197))  
