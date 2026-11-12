@@ -43,6 +43,12 @@ Far-right parties frequently mobilize anti-refugee sentiment during periods of h
 
 “Media and Gender in U.S. Politics” (with [Guilhem Cassan](https://perso.unamur.be/~gcassan/)) 
 
+<details>
+<summary><em>Abstract</em></summary> 
+Women remain substantially underrepresented in political office, a persistent gap shaping policy priorities and gender role norms. Because news markets play a key role in informing voters, we study whether female and male politicians are unequally represented in the news, and if so, why. We focus on the nearly entire universe of candidates in state legislative elections in the United States between 1973 and 2020. First, we document that upon entering state politics, female legislators receive fewer news mentions, less policy-related coverage, and more gender-, family-, and physical appearance-related content. Second, we use a triple-difference strategy that compares, for a given candidate, how coverage varies across news markets with differing gender norms, and whether this variation differs between male and female candidates. By holding candidate behavior constant, this approach allows us to isolate whether news coverage of identical political actors varies with local gender norms. We find that a given female legislator experiences a larger increase in coverage in more gender-progressive areas when elected, disproportionately so relative to male legislators.
+</details>
+<br>
+
 Where familiarity breeds less contempt: Political and economic effects of refugee reception show substantial local variation (with [Tim Friehe](https://www.uni-marburg.de/en/fb02/research-groups/economics/fiwi/team/prof-dr-tim-friehe) and [Hannes Rusch](https://hrusch.de/))
 
 <details>
