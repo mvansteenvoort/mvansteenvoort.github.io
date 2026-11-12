@@ -6,16 +6,17 @@ author_profile: true
 ## **Teaching Assistantships** 
 *University of Namur* 
 * Using economic tools to solve global challenges (M.Sc.) ([Course description](https://uclouvain.be/en-cours-2024-lecon2806))
+<\br>
 
-*School of Business and Economics, Maastricht University* 
+*Maastricht University* 
 * Intermediate Microeconomics for Pre-master (B.Sc.) ([Course description](https://code.unimaas.nl/Code/Display?intCalendarID=30&intBAMA=1&SearchString=EBC2197))  
 * Tax Policy in the International Context (M.Sc.) ([Course description](https://code.unimaas.nl/Code/Display?intCalendarID=30&intBAMA=2&SearchString=EBC4034))  
 * Microeconomics (B.Sc.) ([Course description](https://code.unimaas.nl/Code/Display?intCalendarID=30&intBAMA=1&SearchString=EBC1010)) 
-* Economics and Business (B.Sc.)  ([Course description](https://code.unimaas.nl/Code/Display?intCalendarID=30&intBAMA=1&SearchString=EBC1009)) 
-
-
-*University College, Maastricht University*  
+* Economics and Business (B.Sc.)  ([Course description](https://code.unimaas.nl/Code/Display?intCalendarID=30&intBAMA=1&SearchString=EBC1009))
 * Economics of Information (B.Sc.)
 * Principles of Economics (B.Sc.)
 * Intermediate Microeconomics (B.Sc.) 
+
+
+
 
