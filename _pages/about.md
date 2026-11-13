@@ -15,12 +15,12 @@ Hello and welcome to my webpage!
 I am a post-doctoral researcher at the University of Namur and a project member of "[IDnomics: Identities, norms, and economic behavior](https://arc-projects.unamur.be/idnomics)" (joint with UCLouvain). 
 <br/>
 
-I am visiting Harvard University during the Fall Semester, invited by [Prof. James Snyder](https://jamessnyderjr.com/), and visited Sciences Po Paris during the Spring Semester of 2026, invited by [Prof. Julia Cagé](https://juliacage.com/).
-<br/>
-
 
 I defended my PhD thesis at Maastricht University in January 2025.
+<br/>
 
+My research follows two strands, both of which often intersect with the study of norms and identity. The first examines how host societies respond to migration, asking what fosters public support and what triggers backlash. The second examines why certain people, groups, events, or topics are less or differently represented in the news relative to others, and how such unequal news representations shape society.
+<br/>
 
 <strong>Interests</strong>
 <ul>
