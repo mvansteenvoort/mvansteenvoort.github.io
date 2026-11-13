@@ -19,7 +19,7 @@ I am a post-doctoral researcher at the University of Namur and a project member 
 I defended my PhD thesis at Maastricht University in January 2025.
 <br/>
 
-My research follows two strands, both of which often intersect with the study of norms and identity. The first examines how host societies respond to migration, asking what fosters public support and what triggers backlash. The second examines why certain people, groups, events, or topics are less or differently represented in the news relative to others, and how such unequal news representations shape society.
+My research follows two strands, both of which often intersect with the study of norms and identity. The first examines how host societies respond to migration, analyzing what fosters public support and what triggers backlash. The second examines why certain people, groups, events, or topics are less or differently represented in the news relative to others, and how such unequal news representations shape society.
 <br/>
 
 <strong>Interests</strong>
