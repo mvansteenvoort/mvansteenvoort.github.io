@@ -33,7 +33,7 @@ Gender-biased fertility preferences may decrease fertility: evidence from a coun
 
 ## Selected Work in Progress
 
-Expected Asylum Seekers and Far-Right Voting: Effects of a Dispersal Act (with [Joop Adema](https://jopieadema.github.io/)) 
+Expected Asylum Seekers and Far-Right Voting: Effects of a Dispersal Act (with [Joop Adema](https://jopieadema.github.io/)) [New draft coming soon!]
 
 <details>
 <summary><em>Abstract</em></summary> 
@@ -41,7 +41,7 @@ Far-right parties frequently mobilize anti-refugee sentiment during periods of h
 </details>
 <br>
 
-“Media and Gender in U.S. Politics” (with [Guilhem Cassan](https://perso.unamur.be/~gcassan/)) 
+“Media and Gender in U.S. Politics” (with [Guilhem Cassan](https://perso.unamur.be/~gcassan/)) [Slides available upon request.]
 
 <details>
 <summary><em>Abstract</em></summary> 
@@ -49,7 +49,7 @@ Women remain substantially underrepresented in political office, a persistent ga
 </details>
 <br>
 
-Where familiarity breeds less contempt: Political and economic effects of refugee reception show substantial local variation (with [Tim Friehe](https://www.uni-marburg.de/en/fb02/research-groups/economics/fiwi/team/prof-dr-tim-friehe) and [Hannes Rusch](https://hrusch.de/))
+Where familiarity breeds less contempt: Political and economic effects of refugee reception show substantial local variation (with [Tim Friehe](https://www.uni-marburg.de/en/fb02/research-groups/economics/fiwi/team/prof-dr-tim-friehe) and [Hannes Rusch](https://hrusch.de/)) [New draft coming soon!]
 
 <details>
 <summary><em>Abstract</em></summary> 
